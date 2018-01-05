@@ -1,0 +1,42 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "Mask",
+    "Spine Skeleton",
+    "TiledMap",
+    "LabelOutline",
+    "ScrollBar",
+    "ScrollView",
+    "VideoPlayer",
+    "MotionStreak",
+    "Collider",
+    "Graphics",
+    "CCSpriteDistortion",
+    "ParticleSystem",
+    "Layout"
+  ],
+  "group-list": [
+    "default"
+  ],
+  "start-scene": "3d238de3-51b4-4076-9543-3ce4c9f2985b",
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": false,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  },
+  "cocos-analytics": {
+    "enable": false,
+    "appID": "13798",
+    "appSecret": "959b3ac0037d0f3c2fdce94f8421a9b2"
+  }
+}

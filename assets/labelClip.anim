@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "labelClip",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1,
+          "curve": "sineIn"
+        },
+        {
+          "frame": 0.5,
+          "value": 2,
+          "curve": "cubicIn"
+        },
+        {
+          "frame": 1,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1,
+          "curve": "sineIn"
+        },
+        {
+          "frame": 0.5,
+          "value": 2,
+          "curve": "sineIn"
+        },
+        {
+          "frame": 1,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

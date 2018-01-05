@@ -1,0 +1,133 @@
+2018-01-05T08:12:32.492Z - normal: Load ~/.CocosCreator/settings.json
+2018-01-05T08:12:32.495Z - normal: checking language setting...
+2018-01-05T08:12:32.496Z - normal: Language: zh
+2018-01-05T08:12:33.006Z - success: protocol editor-framework registered
+2018-01-05T08:12:33.007Z - success: protocol app registered
+2018-01-05T08:12:33.007Z - success: protocol theme registered
+2018-01-05T08:12:33.007Z - success: protocol packages registered
+2018-01-05T08:12:33.007Z - success: protocol unpack registerred
+2018-01-05T08:12:33.007Z - success: protocol disable-commonjs registerred
+2018-01-05T08:12:33.143Z - normal: connected!
+2018-01-05T08:12:33.145Z - normal: Check project /Users/xujw/Work/cccProj/Wheel
+2018-01-05T08:12:33.147Z - normal: Initializing Cocos2d
+2018-01-05T08:12:33.349Z - normal: Initializing Asset Database
+2018-01-05T08:12:33.372Z - success: protocol uuid registerred
+2018-01-05T08:12:33.373Z - success: protocol db registerred
+2018-01-05T08:12:33.373Z - success: protocol thumbnail registerred
+2018-01-05T08:12:33.373Z - normal: Loading editor/builtin packages
+2018-01-05T08:12:33.389Z - success: anysdk loaded
+2018-01-05T08:12:33.488Z - success: assets loaded
+2018-01-05T08:12:33.492Z - success: builder loaded
+2018-01-05T08:12:33.494Z - success: cocos-analytics loaded
+2018-01-05T08:12:33.498Z - success: console loaded
+2018-01-05T08:12:33.501Z - success: hierarchy loaded
+2018-01-05T08:12:33.505Z - success: inspector loaded
+2018-01-05T08:12:33.506Z - success: keystore loaded
+2018-01-05T08:12:33.510Z - success: node-library loaded
+2018-01-05T08:12:33.511Z - success: package-asset loaded
+2018-01-05T08:12:33.513Z - success: preferences loaded
+2018-01-05T08:12:33.516Z - success: project-exporter loaded
+2018-01-05T08:12:33.529Z - success: project-importer loaded
+2018-01-05T08:12:33.532Z - success: project-settings loaded
+2018-01-05T08:12:33.535Z - success: ui-kit loaded
+2018-01-05T08:12:33.539Z - success: ui-grid loaded
+2018-01-05T08:12:33.543Z - success: scene loaded
+2018-01-05T08:12:33.544Z - success: sprite-editor loaded
+2018-01-05T08:12:33.547Z - success: store loaded
+2018-01-05T08:12:33.552Z - success: timeline loaded
+2018-01-05T08:12:33.552Z - normal: Loading builtin packages
+2018-01-05T08:12:33.556Z - success: asset-db-debugger loaded
+2018-01-05T08:12:33.557Z - success: color-picker loaded
+2018-01-05T08:12:33.560Z - success: package-manager loaded
+2018-01-05T08:12:33.615Z - success: sdkbox loaded
+2018-01-05T08:12:33.616Z - normal: last time update is in one day
+2018-01-05T08:12:33.620Z - success: tester loaded
+2018-01-05T08:12:33.623Z - success: ui-kit-preview-extra loaded
+2018-01-05T08:12:33.626Z - success: ui-kit-preview loaded
+2018-01-05T08:12:33.629Z - success: ui-tree loaded
+2018-01-05T08:12:34.441Z - normal: Initializing project /Users/xujw/Work/cccProj/Wheel
+2018-01-05T08:12:34.442Z - normal: Loading packages
+2018-01-05T08:12:34.452Z - warn: The profile of the panel (creator-luacpp-support) needs to be moved to the package root
+2018-01-05T08:12:34.453Z - normal: [LuaCPP Support] version 0.3
+2018-01-05T08:12:34.453Z - success: creator-luacpp-support loaded
+2018-01-05T08:12:34.456Z - normal: package load
+2018-01-05T08:12:34.456Z - success: json-lint loaded
+2018-01-05T08:12:34.463Z - success: sdkbox loaded
+2018-01-05T08:12:34.463Z - normal: Watching packages
+2018-01-05T08:12:34.522Z - normal: Run Application
+2018-01-05T08:12:34.872Z - success: preview server running at http://localhost:7456
+2018-01-05T08:12:39.026Z - normal: 1.7.0
+2018-01-05T08:12:42.070Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 801.00
+2018-01-05T08:12:42.071Z - normal: Simulator: FRAME SCALE = 0.75
+2018-01-05T08:12:42.104Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-01-05T08:12:42.160Z - normal: Simulator: 
+2018-01-05T08:12:42.160Z - normal: Simulator: {
+2018-01-05T08:12:42.160Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-01-05T08:12:42.175Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-01-05T08:12:42.176Z - normal: Simulator: 	cocos2d.x.version: 1.7.0
+2018-01-05T08:12:42.176Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2018-01-05T08:12:42.176Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.renderer: AMD Radeon R9 M370X OpenGL Engine
+2018-01-05T08:12:42.177Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-01-05T08:12:42.177Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-01-05T08:12:42.177Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.version: 2.1 ATI-1.60.24
+2018-01-05T08:12:42.178Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-01-05T08:12:42.178Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-01-05T08:12:42.179Z - normal: Simulator: }
+2018-01-05T08:12:42.179Z - normal: Simulator: 
+2018-01-05T08:12:42.179Z - normal: Simulator: 
+2018-01-05T08:12:42.179Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-01-05T08:12:42.202Z - normal: Simulator: Project Config:
+2018-01-05T08:12:42.202Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-01-05T08:12:42.203Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-01-05T08:12:42.203Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-01-05T08:12:42.203Z - normal: Simulator:     frame size: 768 x 1024
+2018-01-05T08:12:42.203Z - normal: Simulator:     frame scale: 0.75
+2018-01-05T08:12:42.204Z - normal: Simulator:     show console: NO
+2018-01-05T08:12:42.204Z - normal: Simulator:     write debug log: NO ()
+2018-01-05T08:12:42.204Z - normal: Simulator:     listen: 
+2018-01-05T08:12:42.204Z - normal: Simulator:     debugger: none
+2018-01-05T08:12:42.204Z - normal: Simulator:     add searching path:
+2018-01-05T08:12:42.205Z - normal: Simulator: ------------------------------------------------
+2018-01-05T08:12:42.205Z - normal: Simulator: LOAD Js FILE: main.js
+2018-01-05T08:12:42.205Z - normal: Simulator: ------------------------------------------------
+2018-01-05T08:12:42.205Z - normal: Simulator: Initializing JavaScriptCore 
+2018-01-05T08:12:42.250Z - normal: Simulator: JS: Cocos2d-x-lite v1.7.0
+2018-01-05T08:12:42.465Z - normal: Simulator: iShow!
+2018-01-05T08:12:42.662Z - normal: Simulator: JS: InitScene: 2.224999999999966ms
+2018-01-05T08:12:42.662Z - normal: Simulator: JS: AutoRelease: 0.15499999999997272ms
+2018-01-05T08:12:42.662Z - normal: Simulator: JS: Destroy: 0.0999999999999659ms
+2018-01-05T08:12:42.662Z - normal: Simulator: JS: AttachPersist: 0.003999999999962256ms
+2018-01-05T08:12:42.706Z - normal: Simulator: setReturnType not implemented
+2018-01-05T08:12:42.707Z - normal: Simulator: [Edit text] content size = (160.000000, 40.000000)
+2018-01-05T08:12:42.707Z - normal: Simulator: setReturnType not implemented
+2018-01-05T08:12:42.708Z - normal: Simulator: [Edit text] content size = (160.000000, 40.000000)
+2018-01-05T08:12:42.708Z - normal: Simulator: [Edit text] content size = (160.000000, 40.000000)
+2018-01-05T08:12:42.708Z - normal: Simulator: INITIAL_CAPS_ALL_CHARACTERS not implemented
+2018-01-05T08:12:42.709Z - normal: Simulator: setReturnType not implemented
+2018-01-05T08:12:42.709Z - normal: Simulator: JS: ....onload
+2018-01-05T08:12:42.710Z - normal: Simulator: JS: Activate: 47.61099999999999ms
+2018-01-05T08:12:42.711Z - normal: Simulator: [Edit text] content size = (160.000000, 40.000000)
+2018-01-05T08:12:48.626Z - normal: Simulator: JS: begin spin
+2018-01-05T08:12:55.693Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-01-05T08:12:55.694Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 2384, total read frames: 2384, adjust frames: 0, remainingFrames: 0
+2018-01-05T08:12:55.694Z - normal: Simulator: JS: 2x
+2018-01-05T08:12:57.460Z - normal: Simulator: JS: begin spin
+2018-01-05T08:13:04.548Z - normal: Simulator: JS: 2x
+2018-01-05T08:13:09.718Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-01-05T08:13:09.718Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 54
+2018-01-05T08:13:09.724Z - normal: Simulator: GC end ..., (Native -> JS map) count: 53
+2018-01-05T08:13:09.724Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 53
+2018-01-05T08:13:09.727Z - normal: Simulator: GC end ..., (Native -> JS map) count: 53
+2018-01-05T08:13:09.727Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 53
+2018-01-05T08:13:09.729Z - normal: Simulator: GC end ..., (Native -> JS map) count: 53
+2018-01-05T08:13:09.744Z - normal: Simulator: setReturnType not implemented
+2018-01-05T08:13:09.745Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-01-05T08:13:11.866Z - info: shutdown preview server
